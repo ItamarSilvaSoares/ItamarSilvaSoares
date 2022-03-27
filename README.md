@@ -6,8 +6,8 @@
   
 </div>
   
-  ![Snake animation](https://github.com/ItamarSilvaSoares/blob/output/github-contribution-grid-snake.svg)
-
+  ![snake gif](https://github.com/itamarsilvasoares/itamarsilvasoares/blob/output/github-contribution-grid-snake.gif)
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
