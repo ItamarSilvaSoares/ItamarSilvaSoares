@@ -6,7 +6,7 @@
   
 </div>
   
-  ![Snake animation](https://github.com/ItamarSilvaSoares/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ItamarSilvaSoares/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
