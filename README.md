@@ -9,7 +9,7 @@
  
   
   ### Snake commint
-  ![snake gif](https://github.com/itamarsilvasoares/itamarsilvasoares/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/ItamarSilvaSoares/ItamarSilvaSoares/blob/output/github-contribution-grid-snake.svg)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
