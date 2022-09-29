@@ -27,9 +27,11 @@
  ### Technologies
  
  
- |JavaScript|React|RTL|Redux|
- |:---:|:---:|:---:|:---:|
- |<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />|<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />| <img src="https://testing-library.com/img/logo-large.png" width="40" height="40"/>|<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />|
+ |JavaScript|React|RTL|Redux|Docker|MySQL|Node|
+ |:---:|:---:|:---:|:---:|:---:|:---:|:---|
+ |<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />|<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />| <img src="https://testing-library.com/img/logo-large.png" width="40" height="40"/>|<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+          
           
 - 🌱 I’m currently learning Back-End
 
