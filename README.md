@@ -36,5 +36,10 @@
 - 🌱 I’m currently learning Back-End
 
 ### Sigam me os bons
-<a href="https://www.linkedin.com/in/itamar-soares-22268a235/" target="_blank"><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          </a>
+<a href="https://www.linkedin.com/in/itamar-soares-22268a235/" target="_blank"><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <details>
+    <summary><strong>Contato</strong></summary>
+     <ul>
+      <li><a href="mailto:Itamar_Soares@zohomail.com" target="_blank">Email<a></li>
+     </ul>
+  </details
