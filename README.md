@@ -4,7 +4,6 @@
 I am a back end Developer.
 - 🌱 I’m currently learning computer Science
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-silva-soares/)
-- Other social media: I Don't like social media
 
 <div align="center">
   <a href="https://github.com/ItamarSilvaSoares">
