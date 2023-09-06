@@ -1,21 +1,26 @@
 ### Hi I'm Itamar da Silva Soares 👋
 
 ### :man_technologist: About Me :
-I am a back end Developer.
-- 🌱 I’m currently learning computer Science
+I graduated in Web Development from [Trybe](https://www.betrybe.com/), i'm passionate about technology, programming, games and anime.
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itamar-silva-soares/)
 
-<div align="center">
-  <a href="https://github.com/ItamarSilvaSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItamarSilvaSoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarSilvaSoares&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a> </br>
-</div>
+
+
+[![ItamarSilvaSoares's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ItamarSilvaSoares\&show_icons=true\&theme=tokyonight)](https://github.com/ItamarSilvaSoares/github-readme-stats#responsive-card-theme#gh-dark-mode-only)[![ItamarSilvaSoares's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ItamarSilvaSoares\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ItamarSilvaSoares/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarSilvaSoares\&layout=compact\&theme=tokyonight)
+
  
-  
   ### Snake commint
-  ![snake gif](https://github.com/ItamarSilvaSoares/ItamarSilvaSoares/blob/output/github-contribution-grid-snake.svg)
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItamarSilvaSoares/ItamarSilvaSoares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItamarSilvaSoares/ItamarSilvaSoares/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItamarSilvaSoares/ItamarSilvaSoares/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+ 
   
  
   <div>
